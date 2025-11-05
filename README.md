@@ -6,7 +6,7 @@ A modern and interactive *Power BI dashboard* designed to analyze customer behav
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./bank%20dadhboard.png)
+![Dashboard Preview](./bank-dashboard.png)
 
 ## 🧠 Key Features
 - Dynamic KPIs: Total Customers, Average Balance, Total Credit, and Drop-off Rate  
